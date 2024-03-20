@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 40949
+  controlID: 41472
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 40905
+  controlID: 41428
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40886
+  controlID: 41419
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1572.6667}
+      scrollPos: {x: 0, y: 1556.6667}
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 7e9bffff3c9effff3e9effff20a0ffffe0a1ffff36a2ffffd0a2ffff16a4ffff8e5f00000c610000
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.28026626, y: 1.8536462, z: -62.313374}
+    m_Target: {x: -2.0089214, y: 7.384161, z: -75.43914}
     speed: 2
-    m_Value: {x: 0.28026626, y: 1.8536462, z: -62.313374}
+    m_Value: {x: -2.0089214, y: 7.384161, z: -75.43914}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -680,9 +680,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.025957683, y: -0.9571534, z: 0.27512625, w: -0.090307385}
+    m_Target: {x: -0.0011310321, y: 0.99967587, z: -0.036895733, w: -0.0072872713}
     speed: 2
-    m_Value: {x: -0.02594904, y: -0.9568347, z: 0.27503464, w: -0.090277314}
+    m_Value: {x: -0.0011305984, y: 0.99929255, z: -0.036881585, w: -0.007284477}
   m_Size:
     m_Target: 8.602077
     speed: 2
@@ -730,8 +730,8 @@ MonoBehaviour:
     y: 773.3333
     width: 2113.3333
     height: 526.00006
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -783,7 +783,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Scripts
+    - Assets/Models/Standard
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -791,15 +791,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 76
   m_LastFolders:
-  - Assets/_Scripts
+  - Assets/Models/Standard
   m_LastFoldersGridSize: 76
   m_LastProjectPath: C:\Users\G00312583\Documents\GitHub\08-lightingsound-Colli456
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 18060000
-    m_LastClickedID: 1560
+    m_SelectedIDs: f0060000
+    m_LastClickedID: 1776
     m_ExpandedIDs: 00000000e005000040060000b406000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
